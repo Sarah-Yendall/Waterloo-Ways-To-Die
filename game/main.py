@@ -6,8 +6,7 @@ import time
 import pygame
 
 SCREEN_W, SCREEN_H = 1280, 720
-FPS git add README.md requirements.txt game/   # or `git add .` to add all
-git commit -m "chore: polish README and pin pygame in requirements"= 60
+FPS = 60
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
 RED = (200, 30, 30)
